@@ -36,3 +36,9 @@ B = [11 12; 13 14; 15 16] % same dims as A
 C = [A B]  % concatenating A and B matrices side by side
 C = [A, B] % concatenating A and B matrices side by side
 C = [A; B] % Concatenating A and B top and bottom
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+Data files used in this section: 
+featuresX.dat : https://raw.githubusercontent.com/tansaku/py-coursera/master/featuresX.dat
+priceY.dat : https://raw.githubusercontent.com/tansaku/py-coursera/master/priceY.dat
